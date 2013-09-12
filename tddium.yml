@@ -1,0 +1,3 @@
+:tddium:
+  :environment:
+    CODECLIMATE_REPO_TOKEN: "trigger codeclimate path"
